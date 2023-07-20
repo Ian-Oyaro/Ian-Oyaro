@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on HTML,CSS & Javascript.
-- 📫 How to reach me Email:iano.oyaro@gmail.com
+- 📫 How to reach me:
+-           Email:iano.oyaro@gmail.com
 -           Conact/whatsapp:+254 113001086
 
 <!---
