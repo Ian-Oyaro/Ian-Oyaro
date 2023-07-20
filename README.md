@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ian-Oyaro
+- 👋 Hi, I’m Ian-Oyaro
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on HTML,CSS & Javascript.
